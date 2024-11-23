@@ -1,1 +1,1 @@
-# SmartNotes
+# ThaparGenie Landing Page
